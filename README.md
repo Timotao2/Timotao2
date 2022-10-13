@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Timotao2
+- 👋 Hi, I’m @Timotao
 - 👀 I’m interested in AI/ML and webscraping
 - 🌱 I’m currently learning Python and how to use copilot
 - 💞️ I’m looking to collaborate on interesting webscraping projects
